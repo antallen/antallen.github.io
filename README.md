@@ -4,7 +4,7 @@
 
 ---
 ## PHP / Laravel 素食蔬菜藥鍋
-+ <code fontcolor="red">PHP Laravel </code>專案開發練習
++ <font color="red">PHP Laravel </font>專案開發練習
   + GitHub 文件： https://github.com/antallen/PHPproject
 + 
 
