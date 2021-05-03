@@ -49,7 +49,6 @@
 + 4
 + 5 [內容](https://github.com/re1233/work.git)
 + 6 [內容](https://github.com/po410434/LinuxExercise.git)
-+ 7
 + 8 [內容](https://github.com/m2121221/LinuxProject)
 + 9 [內容](https://github.com/who123pp/LINUX)
 + 10 [內容](https://github.com/allen10811/LinuxExercise.git)
@@ -64,6 +63,4 @@
 + 19 [內容](https://github.com/cokechen4707/Linux.git)
 + 20 [內容](https://github.com/clt20/Linux.git)
 + 21
-+ 22
 + 23 [內容](https://github.com/hchungw/Linux-Love-Peace)
-+ 24
